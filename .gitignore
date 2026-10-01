@@ -1,0 +1,4 @@
+evals/data/
+__pycache__/
+evals/results/*.log
+.DS_Store

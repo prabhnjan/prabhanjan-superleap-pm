@@ -1,0 +1,18 @@
+Copyright (c) 2026 Prabhanjan Kulkarni. All rights reserved.
+
+This repository holds work I made for a job application to Superleap: the
+eval (code, test cases, data generators, results and reports), the key prompts
+file, the README, and the prototype linked from it
+(https://superleap-prototype.vercel.app).
+
+It is shared so that Superleap's hiring team can review it. Viewing it for that
+purpose is allowed. Copying, changing, distributing, or using any part of it
+for any other purpose, including commercial use or building on it, needs my
+written permission first.
+
+No license is granted beyond that, express or implied.
+
+Excluded: superleap-pm-assignment-brief.pdf is Superleap's assignment brief,
+included for reference. It remains Superleap's property.
+
+Contact: github.com/prabhnjan
